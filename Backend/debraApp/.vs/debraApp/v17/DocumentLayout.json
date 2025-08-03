@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\controllers\\commissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\controllers\\commissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\dto\\partnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\dto\\partnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\models\\commision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\models\\commision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\dto\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\dto\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\dto\\commissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\dto\\commissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\dto\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\dto\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Migrations\\20240704165021_IntialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:debraApp\\Migrations\\20240704165021_IntialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Migrations\\20240704124044_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:debraApp\\Migrations\\20240704124044_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Migrations\\20240704123700_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:debraApp\\Migrations\\20240704123700_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\repository\\commissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\repository\\commissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\interfaces\\icommissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\interfaces\\icommissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|d:\\ashane\\my projects\\websites\\debra\\debraapp\\debraapp\\debraapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{954C0538-EFB0-4B4E-8952-EEDE651C51CD}|debraApp\\debraApp.csproj|solutionrelative:debraapp\\debraapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "debraApp\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\EventController.cs",
+              "RelativeToolTip": "debraApp\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAKIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:39:25.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommissionController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\CommissionController.cs",
+              "RelativeDocumentMoniker": "debraApp\\Controllers\\CommissionController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\CommissionController.cs",
+              "RelativeToolTip": "debraApp\\Controllers\\CommissionController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwDEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:39:33.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommissionDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\CommissionDto.cs",
+              "RelativeDocumentMoniker": "debraApp\\Dto\\CommissionDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\CommissionDto.cs",
+              "RelativeToolTip": "debraApp\\Dto\\CommissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:52:54.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Repository\\EventRepository.cs",
+              "RelativeDocumentMoniker": "debraApp\\Repository\\EventRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Repository\\EventRepository.cs",
+              "RelativeToolTip": "debraApp\\Repository\\EventRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:20:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\TicketDto.cs",
+              "RelativeDocumentMoniker": "debraApp\\Dto\\TicketDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\TicketDto.cs",
+              "RelativeToolTip": "debraApp\\Dto\\TicketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:26:32.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "debraApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "debraApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwFgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:53:51.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Commision.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Models\\Commision.cs",
+              "RelativeDocumentMoniker": "debraApp\\Models\\Commision.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Models\\Commision.cs",
+              "RelativeToolTip": "debraApp\\Models\\Commision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:26:47.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartnerDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\PartnerDto.cs",
+              "RelativeDocumentMoniker": "debraApp\\Dto\\PartnerDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\PartnerDto.cs",
+              "RelativeToolTip": "debraApp\\Dto\\PartnerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:16:20.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\EventDto.cs",
+              "RelativeDocumentMoniker": "debraApp\\Dto\\EventDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\EventDto.cs",
+              "RelativeToolTip": "debraApp\\Dto\\EventDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:57:49.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "debraApp\\Controllers\\TicketController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "debraApp\\Controllers\\TicketController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:05:06.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "debraApp\\Models\\Event.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Models\\Event.cs",
+              "RelativeToolTip": "debraApp\\Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:57:19.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "debraApp\\Models\\Sale.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Models\\Sale.cs",
+              "RelativeToolTip": "debraApp\\Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:01:20.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "debraApp\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "debraApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:48:15.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "debraApp\\Controllers\\SaleController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "debraApp\\Controllers\\SaleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:36:02.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\SaleDto.cs",
+              "RelativeDocumentMoniker": "debraApp\\Dto\\SaleDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\SaleDto.cs",
+              "RelativeToolTip": "debraApp\\Dto\\SaleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:15:14.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "debraApp\\Models\\Ticket.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Models\\Ticket.cs",
+              "RelativeToolTip": "debraApp\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:00:47.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "debraApp\\Models\\Customer.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Models\\Customer.cs",
+              "RelativeToolTip": "debraApp\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:15:58.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "debraApp\\Dto\\CustomerDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Dto\\CustomerDto.cs",
+              "RelativeToolTip": "debraApp\\Dto\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:15:47.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240704165021_IntialCreate.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Migrations\\20240704165021_IntialCreate.cs",
+              "RelativeDocumentMoniker": "debraApp\\Migrations\\20240704165021_IntialCreate.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Migrations\\20240704165021_IntialCreate.cs",
+              "RelativeToolTip": "debraApp\\Migrations\\20240704165021_IntialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:50:22.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240704123700_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Migrations\\20240704123700_InitialCreate.cs",
+              "RelativeDocumentMoniker": "debraApp\\Migrations\\20240704123700_InitialCreate.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Migrations\\20240704123700_InitialCreate.cs",
+              "RelativeToolTip": "debraApp\\Migrations\\20240704123700_InitialCreate.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAQwMIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:37:01.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240704124044_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Migrations\\20240704124044_InitialCreate.cs",
+              "RelativeDocumentMoniker": "debraApp\\Migrations\\20240704124044_InitialCreate.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Migrations\\20240704124044_InitialCreate.cs",
+              "RelativeToolTip": "debraApp\\Migrations\\20240704124044_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:40:44.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Interfaces\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "debraApp\\Interfaces\\ITicketRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Interfaces\\ITicketRepository.cs",
+              "RelativeToolTip": "debraApp\\Interfaces\\ITicketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:52:40.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISaleRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Interfaces\\ISaleRepository.cs",
+              "RelativeDocumentMoniker": "debraApp\\Interfaces\\ISaleRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Interfaces\\ISaleRepository.cs",
+              "RelativeToolTip": "debraApp\\Interfaces\\ISaleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:41:00.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CommissionRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Repository\\CommissionRepository.cs",
+              "RelativeDocumentMoniker": "debraApp\\Repository\\CommissionRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Repository\\CommissionRepository.cs",
+              "RelativeToolTip": "debraApp\\Repository\\CommissionRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwDEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:36:26.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Repository\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "debraApp\\Repository\\TicketRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Repository\\TicketRepository.cs",
+              "RelativeToolTip": "debraApp\\Repository\\TicketRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:57:12.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICommissionRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Interfaces\\ICommissionRepository.cs",
+              "RelativeDocumentMoniker": "debraApp\\Interfaces\\ICommissionRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\Interfaces\\ICommissionRepository.cs",
+              "RelativeToolTip": "debraApp\\Interfaces\\ICommissionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:36:02.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "debraApp.csproj",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\debraApp.csproj",
+              "RelativeDocumentMoniker": "debraApp\\debraApp.csproj",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\debraApp.csproj",
+              "RelativeToolTip": "debraApp\\debraApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T05:19:25.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

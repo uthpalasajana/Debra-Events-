@@ -1,0 +1,311 @@
+/* Reset some default styles */
+@import url('https://fonts.googleapis.com/css2?family=Headland+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CO:wght@100..400&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Convergence&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+:root {
+    --lightpurple:   hsl(272, 100%, 27%);
+    
+    --darkblue:  hsl(272, 94%, 13%);
+    --silver: #C0C0C0;
+    --white: #f5f5f5;
+}
+
+
+
+/* Navigation Bar */
+.navbar {
+
+    background: var(--darkblue);
+    color: #fff;
+    padding: 1.1rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.237);
+  z-index: 1000;
+}
+
+.heading {
+    font-family: "Convergence", sans-serif;
+    font-weight: 400;
+
+    font-style: normal;
+    float: left;
+    font-size: 2.2rem;
+    text-align: center;
+    padding-right: 20px;
+  
+    font-style: normal;
+    padding: 0 20px;
+}
+
+.links {
+    float: right;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.nav-item a {
+    font-family: "Convergence", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: background 0.3s;
+}
+
+.nav-item a:hover {
+    background:  var(--silver);
+    text-shadow: 2px 2px 8px #030303;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: var(--darkblue);
+    background-color: var(--white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#download {
+    padding: 15px 15px;
+    border: none;
+    background-color: var(--lightpurple);
+    color: white;
+    border-radius: 10px;
+    font-size: 17px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    width: 400px;
+}
+main {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+
+}
+
+.ticket {
+    width: 1000px;
+    height: 380px;
+   
+    border-radius: 10px;
+    display: flex;
+ border-radius: 10px;
+    box-shadow: 6px 4px 10px hsla(0, 0%, 0%, 0.1);
+}
+
+.left {
+
+    object-fit: cover;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.left img {
+    height: 100%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.number {
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.number p {
+    margin: 5px;
+    font-size: 24px;
+    
+    
+}
+
+.right {
+    width: 700px;
+    padding: 0px 20px;
+}
+
+
+a {
+    color: white;
+}
+
+
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: rgb(211, 211, 211);
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+
+
+.ticket-title {
+    font-family: "Convergence", sans-serif;
+    font-weight: 400;
+
+    font-style: normal;
+    color: var(--lightpurples);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.body-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    
+}
+
+.des-container {
+    width: 100%;
+    margin: 10px 15px 0 15px;
+    font-size: 15px;
+}
+
+.title-one {
+    background-color: #113978;
+    color: #ffffff;
+    padding: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.title-one h2 {
+    font-size: 18px;
+}
+
+.des-ticket {
+    background-color: #eaeaea;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    
+}
+
+.des-title {
+    color: var(--darkblue);
+    font-size: 18px;
+   
+   
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+
+.des-title-body h4{
+    font-size: 15px;
+
+}
+
+.des-content-body h5{
+    font-size: 14px;
+   
+}
+
+.des-title h4{
+    font-weight: 500;
+}
+
+.des-title-bottom {
+    font-size: 18px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.des-content h5{
+    font-size: 17px;
+    font-weight: 600;
+    background-color: var(--lightpurple);
+    color: white;
+    padding: 4px 8px;
+    border-radius: 5px;
+}
+
+.des-ticket-bottom {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 8px 10px 10px 10px;
+    padding-right: 30px;
+}
+
+.box-event {
+    display: flex;
+    justify-content: space-between;
+    flex-direction:column;
+    gap: 0.5rem;
+    margin-bottom: 10px;
+}
+
+.des-journey {
+    flex: 1;
+    padding: 6px;
+}
+
+.des-title, .des-title-passenger {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.des-content, .des-content-passenger {
+    font-size: 16px;
+}
+
+.des-passenger {
+    width: 100%;
+    background-color: #113978;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.des-content-passenger-ticket {
+    font-size: 24px;
+    text-align: right;
+    font-weight: bold;
+}

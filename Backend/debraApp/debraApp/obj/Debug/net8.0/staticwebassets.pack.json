@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\wwwroot\\images\\aaley.jpg",
+      "PackagePath": "staticwebassets\\images\\aaley.jpg"
+    },
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\wwwroot\\images\\aluthkalawak.jpg",
+      "PackagePath": "staticwebassets\\images\\aluthkalawak.jpg"
+    },
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\wwwroot\\images\\iginite.jpg",
+      "PackagePath": "staticwebassets\\images\\iginite.jpg"
+    },
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\wwwroot\\images\\kuweni.jpg",
+      "PackagePath": "staticwebassets\\images\\kuweni.jpg"
+    },
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\wwwroot\\images\\obanisa.jpg",
+      "PackagePath": "staticwebassets\\images\\obanisa.jpg"
+    },
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\wwwroot\\images\\parinamaya.png",
+      "PackagePath": "staticwebassets\\images\\parinamaya.png"
+    },
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\Debra\\debraApp\\debraApp\\wwwroot\\images\\roba.jpg",
+      "PackagePath": "staticwebassets\\images\\roba.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.debraApp.props",
+      "PackagePath": "build\\debraApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.debraApp.props",
+      "PackagePath": "buildMultiTargeting\\debraApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.debraApp.props",
+      "PackagePath": "buildTransitive\\debraApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.debraApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
