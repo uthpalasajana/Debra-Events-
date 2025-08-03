@@ -21,19 +21,13 @@ This individual project provides a complete solution for managing events and tic
 - **ASP.NET** (Web Forms / MVC)
 - **C#**
 - **MS SQL Server** (Database)
-- **HTML / CSS / JavaScript**
+- **HTML / CSS / Php / JavaScript**
 
 ---
 
 ## 📌 Project Goals
 
 To streamline the event booking process and simplify management for both customers and event organizers through a centralized, web-based platform.
-
----
-
-## 📷 Screenshots (Optional)
-
-> *(Add screenshots here to showcase UI or key features)*
 
 ---
 
